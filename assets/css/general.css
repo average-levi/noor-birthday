@@ -1,0 +1,28 @@
+p{
+      font-family: roboto;
+      font-size: 14px;
+      margin-top :0;
+      margin-bottom: 0;
+}
+
+body{
+  padding-top:70px;
+  padding-left:90px;
+  padding-right: 20px;
+  background: rgb(249, 249, 249);
+}
+
+
+.searchbutton:hover,
+.voicebutton:hover,
+.upload-icon-container:hover,
+.apps-icon-container:hover,
+.notifications-icon:hover,
+.youtube-container:hover,
+.thumbnail-container:hover,
+.profile-div:hover,
+.video-title:hover,
+.video-name:hover,
+.hamburger:hover{
+  cursor: pointer;
+}
