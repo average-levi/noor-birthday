@@ -50,12 +50,12 @@
 
 .video-time{
     position: absolute;
-    bottom: 9px;
-    right: 6px;
+    bottom: 15px;
+    right: 10px;
     color: white;
     background-color: rgb(0, 0, 0);
-    font-size: 12px;
-    padding: 2px 4px;
+    font-size: 16px;
+    padding: 3px 5px;
     border-radius: 4px;
     font-weight: 500;
     font-family: roboto;
