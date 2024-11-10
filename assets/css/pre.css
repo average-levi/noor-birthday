@@ -18,14 +18,14 @@
 
 @media (min-width:501px) and (max-width: 830px){
   .video-grid{
-  grid-template-columns: 1fr 1fr ;
+  grid-template-columns: 1fr;
   }
 }
 
 
 @media (min-width:831px) and (max-width: 1199px){
   .video-grid{
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr;
   }
 }
 
